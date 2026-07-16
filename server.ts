@@ -10,13 +10,6 @@ async function startServer() {
   if (env.GEMINI_API_KEY) {
     process.env.GEMINI_API_KEY = env.GEMINI_API_KEY;
   }
-  // Debug: conferma caricamento variabili da file .env* (non loggare la chiave completa)
-  const keyPreview = process.env.GEMINI_API_KEY
-    ? `${process.env.GEMINI_API_KEY.slice(0, 4)}...${process.env.GEMINI_API_KEY.slice(-4)}`
-    : "(missing)";
-  console.log(
-    `[ENV] cwd=${process.cwd()} mode=${mode} GEMINI_API_KEY=${keyPreview} (len=${process.env.GEMINI_API_KEY?.length || 0})`
-  );
 
   const app = express();
   const PORT = 3000;
@@ -34,10 +27,6 @@ async function startServer() {
       }
 
       const apiKey = process.env.GEMINI_API_KEY;
-      // Debug: verifica runtime (senza log della chiave completa)
-      console.log(
-        `[ENV] /api/parse-pdf GEMINI_API_KEY present=${Boolean(apiKey)} len=${apiKey?.length || 0}`
-      );
       if (!apiKey) {
         return res.status(500).json({ 
           error: "Chiave API Gemini non configurata sul server (LOCAL DEV). Verifica il file .env.local e riavvia il server." 
