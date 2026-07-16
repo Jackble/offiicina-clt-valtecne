@@ -1,0 +1,274 @@
+{
+  "machines": [
+    {
+      "id": "clt25",
+      "name": "CLT 25",
+      "type": "machine",
+      "assignedEmployees": [],
+      "currentJob": "",
+      "processTime": "",
+      "notes": "",
+      "priority": "Low",
+      "status": "Ferma"
+    },
+    {
+      "id": "clt24",
+      "name": "CLT 24",
+      "type": "machine",
+      "assignedEmployees": [],
+      "currentJob": "",
+      "processTime": "",
+      "notes": "",
+      "priority": "Low",
+      "status": "Ferma"
+    },
+    {
+      "id": "clt23",
+      "name": "CLT 23",
+      "type": "machine",
+      "assignedEmployees": [],
+      "currentJob": "",
+      "processTime": "",
+      "notes": "",
+      "priority": "Low",
+      "status": "Ferma"
+    },
+    {
+      "id": "clt22",
+      "name": "CLT 22",
+      "type": "machine",
+      "assignedEmployees": [],
+      "currentJob": "",
+      "processTime": "",
+      "notes": "",
+      "priority": "Low",
+      "status": "Ferma"
+    },
+    {
+      "id": "clt28",
+      "name": "CLT 28",
+      "type": "machine",
+      "assignedEmployees": [],
+      "currentJob": "",
+      "processTime": "",
+      "notes": "",
+      "priority": "Low",
+      "status": "Ferma"
+    },
+    {
+      "id": "clt21",
+      "name": "CLT 21",
+      "type": "machine",
+      "assignedEmployees": [],
+      "currentJob": "",
+      "processTime": "",
+      "notes": "",
+      "priority": "Low",
+      "status": "Ferma"
+    },
+    {
+      "id": "clt20",
+      "name": "CLT 20",
+      "type": "machine",
+      "assignedEmployees": [],
+      "currentJob": "",
+      "processTime": "",
+      "notes": "",
+      "priority": "Low",
+      "status": "Ferma"
+    },
+    {
+      "id": "clt6",
+      "name": "CLT 6",
+      "type": "machine",
+      "assignedEmployees": [],
+      "currentJob": "",
+      "processTime": "",
+      "notes": "",
+      "priority": "Low",
+      "status": "Ferma"
+    },
+    {
+      "id": "clv10",
+      "name": "CLV 10",
+      "type": "machine",
+      "assignedEmployees": [],
+      "currentJob": "",
+      "processTime": "",
+      "notes": "",
+      "priority": "Low",
+      "status": "Ferma"
+    },
+    {
+      "id": "clt15",
+      "name": "CLT 15",
+      "type": "machine",
+      "assignedEmployees": [],
+      "currentJob": "",
+      "processTime": "",
+      "notes": "",
+      "priority": "Low",
+      "status": "Ferma"
+    },
+    {
+      "id": "clt12",
+      "name": "CLT 12",
+      "type": "machine",
+      "assignedEmployees": [],
+      "currentJob": "",
+      "processTime": "",
+      "notes": "",
+      "priority": "Low",
+      "status": "Ferma"
+    },
+    {
+      "id": "clo15",
+      "name": "CLO 15",
+      "type": "machine",
+      "assignedEmployees": [],
+      "currentJob": "",
+      "processTime": "",
+      "notes": "",
+      "priority": "Low",
+      "status": "Ferma"
+    },
+    {
+      "id": "clt17",
+      "name": "CLT 17",
+      "type": "machine",
+      "assignedEmployees": [],
+      "currentJob": "",
+      "processTime": "",
+      "notes": "",
+      "priority": "Low",
+      "status": "Ferma"
+    },
+    {
+      "id": "clt16",
+      "name": "CLT 16",
+      "type": "machine",
+      "assignedEmployees": [],
+      "currentJob": "",
+      "processTime": "",
+      "notes": "",
+      "priority": "Low",
+      "status": "Ferma"
+    },
+    {
+      "id": "clt5",
+      "name": "CLT 5",
+      "type": "machine",
+      "assignedEmployees": [],
+      "currentJob": "",
+      "processTime": "",
+      "notes": "",
+      "priority": "Low",
+      "status": "Ferma"
+    },
+    {
+      "id": "clt9",
+      "name": "CLT 9",
+      "type": "machine",
+      "assignedEmployees": [],
+      "currentJob": "",
+      "processTime": "",
+      "notes": "",
+      "priority": "Low",
+      "status": "Ferma"
+    },
+    {
+      "id": "clt14",
+      "name": "CLT 14",
+      "type": "machine",
+      "assignedEmployees": [],
+      "currentJob": "",
+      "processTime": "",
+      "notes": "",
+      "priority": "Low",
+      "status": "Ferma"
+    },
+    {
+      "id": "clt7",
+      "name": "CLT 7",
+      "type": "machine",
+      "assignedEmployees": [],
+      "currentJob": "",
+      "processTime": "",
+      "notes": "",
+      "priority": "Low",
+      "status": "Ferma"
+    },
+    {
+      "id": "clt10",
+      "name": "CLT 10",
+      "type": "machine",
+      "assignedEmployees": [],
+      "currentJob": "",
+      "processTime": "",
+      "notes": "",
+      "priority": "Low",
+      "status": "Ferma"
+    },
+    {
+      "id": "clt13",
+      "name": "CLT 13",
+      "type": "machine",
+      "assignedEmployees": [],
+      "currentJob": "",
+      "processTime": "",
+      "notes": "",
+      "priority": "Low",
+      "status": "Ferma"
+    },
+    {
+      "id": "clt11",
+      "name": "CLT 11",
+      "type": "machine",
+      "assignedEmployees": [],
+      "currentJob": "",
+      "processTime": "",
+      "notes": "",
+      "priority": "Low",
+      "status": "Ferma"
+    },
+    {
+      "id": "clt19",
+      "name": "CLT 19",
+      "type": "machine",
+      "assignedEmployees": [],
+      "currentJob": "",
+      "processTime": "",
+      "notes": "",
+      "priority": "Low",
+      "status": "Ferma"
+    },
+    {
+      "id": "clt27",
+      "name": "CLT 27",
+      "type": "machine",
+      "assignedEmployees": [],
+      "currentJob": "",
+      "processTime": "",
+      "notes": "",
+      "priority": "Low",
+      "status": "Ferma"
+    },
+    {
+      "id": "clt26",
+      "name": "CLT 26",
+      "type": "machine",
+      "assignedEmployees": [],
+      "currentJob": "",
+      "processTime": "",
+      "notes": "",
+      "priority": "Low",
+      "status": "Ferma"
+    }
+  ],
+  "employees": [],
+  "shiftLeaders": [
+    "PEDROTTI BRUNO",
+    "NIKOLLA BLENDIAN"
+  ],
+  "updatedAt": "2026-07-16T08:12:36.960Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Workshop Planner Pro",
+  "description": "A specialized workshop management tool to assign employees, track jobs, and set priorities for machining centers based on a custom floor plan layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
